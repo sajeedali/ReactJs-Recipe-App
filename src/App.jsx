@@ -4,10 +4,11 @@ import HeroSection from "./components/HeroSection";
 import ImproveSkills from "./components/ImproveSkills";
 import QuoteSection from "./components/QuoteSection";
 import ChefsSection from "./components/ChefsSection";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
       <Navbar />
       <div className="container main">
         <HeroSection />
@@ -15,6 +16,7 @@ const App = () => {
         <QuoteSection />
         <ChefsSection />
       </div>
+      <Footer />
     </div>
   );
 };
