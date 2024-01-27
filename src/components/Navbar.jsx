@@ -31,9 +31,9 @@ const Navbar = () => {
   return (
     <>
       <div className="navbar container">
-        <a href="#!" className="logo">
-          F<span>oo</span>d
-        </a>
+        <Link to="/" className="logo">
+          R<span>ecipe</span>Hub
+        </Link>
         <div className="nav-links">
           {links.map((link) => (
             <Link

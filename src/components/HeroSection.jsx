@@ -19,10 +19,10 @@ const HeroSection = () => {
       <div className="col typography">
         <h1 className="title">What are we About</h1>
         <p className="info">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas
-          nulla sunt, molestiae maiores incidunt iusto, eveniet ad expedita
-          molestias fugiat dolorem itaque sint quam quia culpa laudantium
-          libero. Officiis, sapiente?
+          RecipeHub is a platform dedicated to satisfying both your culinary
+          cravings and soul with an array of delectable recipes spanning various
+          cuisines. Our services come at no cost, ensuring that everyone can
+          indulge in the joy of cooking without any financial barriers
         </p>
         <button className="btn">Explore now</button>
       </div>

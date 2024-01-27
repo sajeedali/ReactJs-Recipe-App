@@ -4,17 +4,16 @@ const Footer = () => {
   return (
     <div className="footer container">
       <div className="footer-section">
-        <p className="title">FoodiesHub.com</p>
+        <p className="title">RecipeHub.com</p>
         <p>
-          FoodiesHub is a place where you can please your soul and tummy with
-          delicious food recepies of all cuisine. And our service is absolutely
-          free.
+          RecipeHub: Your go-to destination for mouthwatering recipes from
+          around the world, all available for free!
         </p>
-        <p>&copy; 2021 | All Rights Reserved</p>
+        <p>&copy; 2024 | All Rights Reserved</p>
       </div>
       <div className="footer-section">
         <p className="title">Contact Us</p>
-        <p>foodieshub@gmail.com</p>
+        <p>recipehub@gmail.com</p>
         <p>+342-5324-9454</p>
         <p>2393 Street NYC</p>
       </div>
