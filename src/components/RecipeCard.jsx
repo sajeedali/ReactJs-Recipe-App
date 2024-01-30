@@ -1,5 +1,5 @@
 import React from "react";
-import CustomImage from "./Customimage";
+import CustomImage from "./Customimage.jsx";
 
 const RecipeCard = ({ recipe }) => {
   return (
