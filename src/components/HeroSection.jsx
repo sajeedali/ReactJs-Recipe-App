@@ -1,5 +1,5 @@
 import React from "react";
-import CustomImage from "./Customimage";
+import CustomImage from "./Customimage.jsx";
 
 const HeroSection = () => {
   const images = [
